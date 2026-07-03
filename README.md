@@ -29,7 +29,7 @@ The dashboard provides insights into:
 
 > Add your dashboard screenshot below.
 
-![Dashboard](Images/Dashboard.png)
+IMG-20260529-WA0006.jpg
 
 ---
 
