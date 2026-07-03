@@ -29,9 +29,7 @@ The dashboard provides insights into:
 
 > Add your dashboard screenshot below.
 
-IMG-20260529-WA0006.jpg
-
----
+https://github.com/shamanth-11/IPL-Dashboard/blob/main/IMG-20260529-WA0006.jpg
 
 # 🚀 Features
 
@@ -185,17 +183,6 @@ Dimension Tables:
 
 ---
 
-# 📈 Future Improvements
-
-- Win Probability Prediction
-- Venue Heatmaps
-- Toss Impact Analysis
-- Player Form Index
-- Fantasy Team Recommendation
-- Machine Learning Prediction
-
----
-
 # 💻 Skills Demonstrated
 
 - Data Cleaning
@@ -212,13 +199,6 @@ Dimension Tables:
 
 # 👨‍💻 Author
 
-**Shamanth Amin**
+**Shamanth Poojar**
 
 Healthcare Data Analyst | Power BI Developer | Aspiring Data Analyst
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
-
----
-
-## ⭐ If you found this project useful, don't forget to give it a Star!# IPL-Dashboard
